@@ -39,8 +39,8 @@ This project is a custom steganography-based capture-the-flag (CTF) challenge de
 - Use the text to create a Sha-3-256 hash
 
 ### 🧩 Block 3 — Final Message
-- Using the hash created from the embeded phrase in the last block as a symetric key 
-- Use the password revealed in Block 2 to extract the final clue from `SecPlus3.png`
+- Using the pass phrase taken from image #2 you will get an encrypted file from image #3. 
+- Using the hash created from the embeded phrase in the last block as a symetric key decrypt the file
 - Gather the flag
 
 Extract hidden data:
