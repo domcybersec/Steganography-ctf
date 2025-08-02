@@ -44,3 +44,9 @@ This project is a custom steganography-based capture-the-flag (CTF) challenge de
 - Gather the flag
 
 Extract hidden data:
+
+✍️ Author
+
+Dom Waters
+GitHub: @domcybersec
+CTF/Infosec Enthusiast & Cybersecurity Student
